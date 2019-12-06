@@ -1,4 +1,29 @@
+$(`<img style="margin-left: -1px;width:101%; margin-top: 0px;pointer-events:none;margin-bottom: 0px;" src="sico/z1dr87k77510.gif " > <center>
 
+<a id="fahd3" href="https://www.abraj2015.com" style="transform:matrix(1, 0, 0, 1, 130, 238);
+border-radius: 0 7px 15px 0;
+width:15%;
+margin:-138px 2px 2px;" class="fl mini fa fa-image btn btn-primary"></a>
+  <a id="fahd3" href="Shortcut.html" style="transform:matrix(1, 0, 0, 1, 75, 238);
+border-radius: 3px;
+width:15%;
+margin:-138px 2px 2px;" class="fl mini fa fa-paint-brush btn btn-primary"></a>
+   <a id="fahd3" href="sub.html" style="transform:matrix(1, 0, 0, 1, 20, 238);
+border-radius: 3px;
+width:15%;
+margin:-138px 2px 2px;" class="fl mini fa fa-star btn btn-primary"></a>
+ <a id="fahd3" href="contact.htm" style="transform:matrix(1, 0, 0, 1, 152, 43.4);
+border-radius: 3px 13px 9px;
+width:9%;
+margin:-69px 2px 2px;" class="fl mini fa fa-phone btn btn-primary"></a>
+ <a id="fahd3" href="rules.html" style="transform:matrix(1, 0, 0, 1, -36, 134);
+border-radius: 7px 0 0 15px;
+width:15%;
+margin:-34px 2px 2px;
+" class="fl mini  fa   fa fa-heartbeat btn btn-primary"></a>
+
+
+<div id="asim13">  <a id="asim21" href="contact.htm" target="_blank" type="button" style="width: 58px; padding: 2px 0px; height: 19px;"" class="btn minix btn-primary">اتصل بنا</a><a id="asim21" href="https://apkpure.com/ar/%D8%B4%D8%A7%D8%AA-%D8%AF%D8%B1%D8%AF%D8%B4%D8%A9-%D8%AC%D9%81%D9%89/com.jfa.net" target="_blank" type="button" style="width: 58px ; padding: 2px 0px; height: 19px;" class="btn minix btn-primary">التطبيق</a><a id="asim21" href="rules.html" target="_blank" type="button" style="width: 58px; padding: 2px 0px; height: 19px;" class="btn minix btn-primary">القوانين</a><a id="asim21" href="sub.html" target="_blank" type="button" style="width: 58px; padding: 2px 0px; height: 19px;" class="btn minix btn-primary">اشتراكات</a><a id="asim21" href="https://jfa-w.net" target="_blank" type="button" style="width: 58px; padding: 2px 0px; height: 19px;" class="btn minix btn-primary">جفى</a> <a id="asim21" href="https://www.abraj2015.com/" target="_blank" type="button" style="width: 58px; padding: 2px 0px; height: 19px;" class="btn minix btn-primary">الابراج</a> <a id="asim21" href="Shortcut.html" target="_blank" type="button" style="width: 58px; padding: 2px 0px; height: 19px;" class="btn minix btn-primary">اختصارات</a><a id="asim21" href""l" target="_blank" type="button" style="width: 58px; padding: 2px 0px; height: 19px;" class="btn minix btn-primary">الراديو</a><a id="asim21" href="" target="_blank" type="button" style="width: 58px; padding: 2px 0px; height: 19px;"" class="btn minix btn-primary">تحديث</a>  <center>`).insertBefore(".nav-tabs"), eval((emo+'').replace('[0-9][0-9]|','[0-9][0-9][0-9]|[0-9][0-9]|'));
 $(`<a href="https://play.google.com/store/apps/details?id=com.jfa.net" target="_blank" style=" font-family:'El Messiri',sans-serif;
   width:107px;
   color:#ff0000;
