@@ -49,7 +49,7 @@ ul.nav.nav-tabs>li>.fa-user-plus:before,ul.nav.nav-tabs>li>.fa-user:before,ul.na
   
 /*! color:#f9f9f9;*/}
 .fa-user:before{content:"\f086";/* color:#4c0808;*/}
-:after,:before{-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box}
+:after,:before{-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;}
 .fa-group:before,.fa-users:before,.fa-gear:before,.fa-cog:before,.fa-commenting-o:before{content:""}
 .fa-group:before,.fa-users:before{/* content:"\f0c0";*/}
 .label-success{background-color:#287c86}
@@ -84,12 +84,12 @@ img.fl.fitimg.hand.u-pic{border-radius:100%!important;margin-top:4px!important;m
 img.fitimg.fl.u-pic{background-size:cover;border-radius:3px!important;padding:18px;border:1px solid#e8e8e8}
 .label-primary,.btn-primary,.bg-primary,.label-primary:hover,.btn-primary:hover,.btn-primary:focus,.label-primary,.btn-primary{border:1px solid #f9f6f6;margin-left:-2px}
 label.fl.nosel.label.pnhead{color:#fff;background-color:#287c86;font-size:15.8px!important;/*! text-align:center;*/
-  width:85%;display:block;/*! border-left:5px #9f0e52 solid;*/}
+  width:54%;display:block;/*! border-left:5px #9f0e52 solid;*/}
 #fahd3{text-decoration:dotted;color:#fff;margin-left:193px!important;display:inline-block;/* margin-right:4.4px!important;*/
     background:linear-gradient(45deg,#2b3e52,#2b3e52);box-shadow:0 2px 2px 0 rgba(0,0,0,0.14),0 1px 5px 0 rgba(0,0,0,0.12),0 3px 1px -2px rgba(0,0,0,0.2)!important}
 #fahd3,#fahd4{text-align:center!important}
-.u-msg.break.fl{line-height:22px!important}
-.u-msg.break.fl,.fl.u-msg,.uzr{-webkit-user-select:none}
+.u-msg.break.fl{line-height:22px!important;}
+.u-msg.break.fl,.fl.u-msg,.uzr{/*! -webkit-user-select:none */}
 span.busers.minix.badge.border{display:-webkit-inline-box;background-color:#ffffff00}
 span.border{border:none}
 h3.popover-title,.fa-gear:before,.fa-cog:before,.fa-commenting-o:before,.fa-group:before,.fa-users:before,span.border,.fl.fa.fa-comment.btn.ui-corner-all.ui-shadow.ui-btn.ui-btn-inline.upm.borderg.fa-comment:before,.fa-envelope-o:before,.fa-diamond:before,.fa-search:before,.fa-ban:before,.fa-ban:before,.fa-user-times:before{display:none}
