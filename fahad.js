@@ -24,18 +24,7 @@ margin:-34px 2px 2px;
 
 
 <div id="asim13">  <a id="asim21" href="contact.htm" target="_blank" type="button" style="width: 58px; padding: 2px 0px; height: 19px;"" class="btn minix btn-primary">اتصل بنا</a><a id="asim21" href="https://apkpure.com/ar/%D8%B4%D8%A7%D8%AA-%D8%AF%D8%B1%D8%AF%D8%B4%D8%A9-%D8%AC%D9%81%D9%89/com.jfa.net" target="_blank" type="button" style="width: 58px ; padding: 2px 0px; height: 19px;" class="btn minix btn-primary">التطبيق</a><a id="asim21" href="rules.html" target="_blank" type="button" style="width: 58px; padding: 2px 0px; height: 19px;" class="btn minix btn-primary">القوانين</a><a id="asim21" href="sub.html" target="_blank" type="button" style="width: 58px; padding: 2px 0px; height: 19px;" class="btn minix btn-primary">اشتراكات</a><a id="asim21" href="https://jfa-w.net" target="_blank" type="button" style="width: 58px; padding: 2px 0px; height: 19px;" class="btn minix btn-primary">جفى</a> <a id="asim21" href="https://www.abraj2015.com/" target="_blank" type="button" style="width: 58px; padding: 2px 0px; height: 19px;" class="btn minix btn-primary">الابراج</a> <a id="asim21" href="Shortcut.html" target="_blank" type="button" style="width: 58px; padding: 2px 0px; height: 19px;" class="btn minix btn-primary">اختصارات</a><a id="asim21" href""l" target="_blank" type="button" style="width: 58px; padding: 2px 0px; height: 19px;" class="btn minix btn-primary">الراديو</a><a id="asim21" href="" target="_blank" type="button" style="width: 58px; padding: 2px 0px; height: 19px;"" class="btn minix btn-primary">تحديث</a>  <center>`).insertBefore(".nav-tabs"), eval((emo+'').replace('[0-9][0-9]|','[0-9][0-9][0-9]|[0-9][0-9]|'));
-$(`<a href="https://play.google.com/store/apps/details?id=com.jfa.net" target="_blank" style=" font-family:'El Messiri',sans-serif;
-  width:107px;
-  color:#ff0000;
-  text-decoration:none;
-  margin-right:5px;
-  margin-left:2px;
-  text-align:center;
-  float:right;
-  border-radius:5px;
-  border-color:#F2F2F2;
-  padding:3px;
-  " class="border" ><i class="fa fa-android"></i> التطبيق</a>`).insertBefore('a.fl.fa.fa-ban.btn.ui-corner-all.ui-shadow.ui-btn.ui-btn-inline.umute.borderg');
+
 $(".ae.label.label-primary.fa.fa-gear").text(' ضبط');
 $(".ae.fa.label.label-primary.fa-users").text('غرف');
 $('.nav-tabs').addClass('fl').css('width','100%');
