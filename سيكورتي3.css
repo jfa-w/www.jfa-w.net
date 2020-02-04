@@ -184,7 +184,7 @@ ul.nav.nav-tabs{margin-top:-20px!important;margin-bottom:55px!important;border-r
 div#tlogins .fr.borderg{border-radius:222px!important;margin-top:12.44px;margin-left:76px;height:0;position:absolute;top:87px;font-family:'jazeera',FontAwesome;color:#76947c;box-shadow:inset 0 0 0 0 black;border-bottom:0 #fff solid;border:thick */}
 .fr.borderrg{border-radius:222px!important;margin-top:0.0px;margin-left:190px;/* height:0;*/
     position:absolute;top:596px;font-family:'jazeera',FontAwesome;color:#552322;box-shadow:inset 0 0 0 0 black;background-color:#286090;border-left:4px solid #1ca0d1}
-div#tlogins .fr.borderg,.fr.borderg a{font-size:9px!important;padding:.0 .1px!important;color:#6f6d7d;font-family:'B Fantezy';}
+div#tlogins .fr.borderg,.fr.borderg a{font-size:9px!important;padding:.0 .1px!important;color:#6f6d7d;font-family:'B Fantezy' !important;}
 span.s1.fa.fa-user.label.badgex.label-as-badge.label-success{border-radius:5px 5px 5px 5px;margin-left:259px;font-size:12px!important;padding:1px;background-color:#ffffff00;color:#fff}
 div#l2 button.btn.btn-primary,div#l1 button.btn.btn-primary,div#l3 button.btn.btn-primary{border-radius:7px!important;width:112px;position:inherit;height:25px;margin-bottom:4px;padding:0 0 3px;/* border:0 solid#ffffff!important;*/
   border-right:6px solid;border-left:6px solid;border-right:4px dotted;border-left:4px dotted;font-family:'fanni';border-color:#ffffff;border-bottom-style:groove;border-right-style:double;border-top-style:dotted;border-left-style:double;border-bottom-style:dashed}
