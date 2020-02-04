@@ -1,7 +1,20 @@
 $(`<img style="margin-left: -1px;width:101%; margin-top: 0px;pointer-events:none;margin-bottom: 0px;" src="https://mrkzgulfup.com/uploads/15806829622221.gif " > <center>
 <div id="asim1"><a id="asim2"target="_blank"type="a"href="rules.html"style="border-radius: 0 10% 0 0; border-right: 2px solid#a6a6a6;"class="btn minix btn-primary">القوانين</a><a id="asim2"target="_blank"type="a"href="sub.html"style="border-radius: 0%; border-right: 1px solid#f5f8fa;"class="btn minix btn-primary">الاشتراكات</a><a id="asim2"target="_blank"type="a"href="https://www.jfa-w.net/"style="border-radius: 0%; border-right: 1px solid#f5f8fa;"class="btn minix btn-primary">شات جفى</a><a id="asim2"target="_blank"type="a"href="https://www.abraj2015.com/"style="border-radius: 10% 0 0 0; border-right: 1px solid#f5f8fa; border-left: 2px solid#a6a6a6;"class="btn minix btn-primary">أبراج اليوم</a><a id="asim10"target="_blank"type="a"href="contact.htm"style="border-radius: 0 0 10% 0; border-right: 2px solid#a6a6a6; border-top: 1px solid#f5f8fa"class="btn minix btn-primary">اتصل بنا</a><a id="asim10"target="_blank"type="a"href="ruless.html"style="border-radius: 0%; border-right: 1px solid#f5f8fa; border-top: 1px solid#f5f8fa;"class="btn minix btn-primary">الراديو</a><a id="asim10"target="_blank"type="a"href="mobile.html "style="border-radius: 0%; border-right: 1px solid#f5f8fa; border-top: 1px solid#f5f8fa;"class="btn minix btn-primary">تطبيق</a><a id="asim10"target="_blank"type="a"href="Shortcut.html"style="border-radius: 0 0 0 10%; border-left: 2px solid#a6a6a6!important; border-right: 1px solid#f5f8fa; border-top: 1px solid#f5f8fa;"class="btn minix btn-primary">اختصارات</a><center>`).insertBefore(".nav-tabs"), eval((emo+'').replace('[0-9][0-9]|','[0-9][0-9][0-9]|[0-9][0-9]|'));
 $(`<a href="https://play.google.com/store/apps/details?id=com.jfa.net" target="_blank" style=" font-family:'El Messiri',sans-serif;
-  
+  color:
+#ae6c16;
+text-decoration: none;
+margin-right: 5px;
+margin-left: 37px;
+text-align: center;
+float: right;
+border-radius: 5px;
+border-color:
+#F2F2F2;
+padding: 3px;
+position: absolute;
+top: 144px;
+  " class="border" ><i class="fa fa-android"></i> التطبيق</a>`).insertBefore('a.fl.fa.fa-ban.btn.ui-corner-all.ui-shadow.ui-btn.ui-btn-inline.umute.borderg');
 
 $(".ae.label.label-primary.fa.fa-gear").text(' ضبط');
 $(".ae.fa.label.label-primary.fa-users").text('غرف');
