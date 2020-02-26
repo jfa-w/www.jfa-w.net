@@ -1,4 +1,4 @@
-.ae{border:1px solid #fff}
+.ae{border:1px solid #fff;}
 .ae.label.label-primary.fa.fa-gear{border-radius:7px 7px 15px 15px}
 .ae.fa.chats.label.fa-comment.label-warning{margin-left:-1px!important;border-radius:0 0 0 0;font-size:15px!important}
 .s1.fa.fa-user.label.badgex.label-as-badge.label-success{background-color:transparent;background-image:none}
@@ -279,10 +279,10 @@ div#tlogins .hand.nosel.fl.uzr.border{width:99%!important;margin-top:5px!importa
 body{background:linear-gradient(163deg,#fff 0%,#f1f1f1 100%)}
 ul.nav.nav-tabs.fl li{background:none;width:50%;margin-left:1px;border-radius:50px;height:35px!important}
 ul.nav.nav-tabs{margin-top:-20px!important;margin-bottom:55px!important;border-radius:8px;background-color:#fff0!important;border:#ff000000!important;border-top:2px solid #777!important}
-div#tlogins .fr.borderg{border-radius: 0.2px 332px 1px !important;margin-top: 13.2px;margin-left: 74px;line-height: normal;position:absolute;top:87px;font-family:'jazeera',FontAwesome;color:#76947c;box-shadow:inset 0 0 0 0 black;border-bottom: 0 #fff solid;border:thick */;border-left: 5px #e7b5c6 solid;}
+div#tlogins .fr.borderg{border-radius: 0.2px 332px 1px !important;margin-top: 13.2px;margin-left: 70px;height: 0;position:absolute;top: 85px;font-family:'jazeera',FontAwesome;/* color:#76947c; */box-shadow:inset 0 0 0 0 black;border-bottom: 0 #fff solid;border:thick */;}
 .fr.borderrg{border-radius:222px!important;margin-top:0.0px;margin-left:190px;/* height:0;*/
     position:absolute;top:596px;font-family:'jazeera',FontAwesome;color:#552322;box-shadow:inset 0 0 0 0 black;background-color:#286090;border-left:4px solid #1ca0d1}
-div#tlogins .fr.borderg,.fr.borderg a{font-size: 5.6px!important;padding: 0.6px!important;color: #885867;/* font-family: 'initial'; */}
+div#tlogins .fr.borderg,.fr.borderg a{font-size: 5.6px!important;padding: 0.0px!important;color: #885867;/* font-family: 'Myriad Pro'; */}
 span.s1.fa.fa-user.label.badgex.label-as-badge.label-success{border-radius:5px 5px 5px 5px;margin-left:259px;font-size:12px!important;padding:1px;background-color:#ffffff00;color:#fff}
 div#l2 button.btn.btn-primary,div#l1 button.btn.btn-primary,div#l3 button.btn.btn-primary{border-radius:7px!important;width:112px;position:inherit;height:25px;margin-bottom:4px;padding:0 0 3px;/* border:0 solid#ffffff!important;*/
   border-right:6px solid;border-left:6px solid;border-right:4px dotted;border-left:4px dotted;font-family:'fanni';border-color:#ffffff;border-bottom-style:groove;border-right-style:double;border-top-style:dotted;border-left-style:double;border-bottom-style:dashed}
