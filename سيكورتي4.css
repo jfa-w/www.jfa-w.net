@@ -145,8 +145,15 @@ margin-bottom:0!important;line-height:26px}
 .fa-refresh::before{content:"\f021"}
 a#asim99{border:1px solid #143e43!important;border-radius:5px 0 0 5px;width:39px;margin:-172px 0 0 162px;padding:3px;height:20px;position:absolute;border-color:#885867;background-image:linear-gradient(to bottom,#24ad34 0,#259823 100%)
     background-color:#259b25!important}
-a#asim27{position:absolute;font-size:7px!important;color:#885867!important;background:#fff0!important;/* height:12px;*/
-    margin:-67px 0 0 -130px;line-height:0}
+a#asim27{
+    position:absolute;
+    font-size: 8px!important;
+    color:#885867!important;
+    background:#fff0!important;
+    /* height:12px;*/
+    margin:-67px 0 0 -130px;
+    line-height:0;
+    }
 #asim66{margin-top:0!important;position:absolute;top:-122px;left:5px;background-image:url(https://www.jfaw-w.net/sico/z1dap4u8o310.png)!important;background-size:129px}
 .border{border:.9px solid #cecece}
 a.label.label-primary.fl{display:none}
