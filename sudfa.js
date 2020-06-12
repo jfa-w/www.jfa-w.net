@@ -1,5 +1,5 @@
  
-$(`<a id="jfa123" href=""><i class="fa fa-refresh fa-spin fa-3x fa-fw" aria-hidden="true"></i></a><img id="asim70"src="https://jfa-w.net/sico/1590854537522.gif"style="width:100%"><a id="jfa44"target="_blank"type="a"rel="nofollow"href="https://www.dookmobile.com"class="label-primary">Programming by Dook Mobile</a></div></div><center>
+$(`<a <img id="asim70"src="https://jfa-w.net/sico/1590854537522.gif"style="width:100%"><a id="jfa44"target="_blank"type="a"rel="nofollow"href="https://www.dookmobile.com"class="label-primary">Programming by Dook Mobile</a></div></div><center>
 
  <a id="asim99" href="" class="fl mini  fa   fa fa-refresh btn btn-success"></a></div></div>
 <div id="asim1"><a id="asim2"target="_blank"type="a"href="rules.html"style="border-radius: 0 10% 0 0; border-right: 2px solid#a6a6a6;"class="btn minix btn-primary">القوانين</a><a id="asim2"target="_blank"type="a"href="sub.html"style="border-radius: 0%; border-right: 1px solid#f5f8fa;"class="btn minix btn-primary">الاشتراكات</a><a id="asim2"target="_blank"type="a"href="https://www.jfa-w.net/"style="border-radius: 0%; border-right: 1px solid#f5f8fa;"class="btn minix btn-primary">شات جفى</a><a
