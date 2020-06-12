@@ -1,12 +1,12 @@
 
-$(`<img style="margin-left: -1px;width:101%; margin-top: 0px;pointer-events:none;margin-bottom: 0px;" src="https://jfa-w.net/sico/1590854537522.gif " ><a id="jfa44"target="_blank"type="a"rel="nofollow"href="https://www.dookmobile.com"class="label-primary">Dook Mobile</a>
+$(`<img style="margin-left: -1px;width:101%; margin-top: 0px;pointer-events:none;margin-bottom: 0px;" src="https://jfa-w.net/sico/1590854537522.gif " >
 <center>
 
  <a id="asim99" href="" class="fl mini  fa   fa fa-refresh btn btn-success"></a></div></div>
 <div id="asim1"><a id="asim2"target="_blank"type="a"href="rules.html"style="border-radius: 0 10% 0 0; border-right: 2px solid#a6a6a6;"class="btn minix btn-primary">القوانين</a><a id="asim2"target="_blank"type="a"href="sub.html"style="border-radius: 0%; border-right: 1px solid#f5f8fa;"class="btn minix btn-primary">الاشتراكات</a><a id="asim2"target="_blank"type="a"href="https://www.jfa-w.net/"style="border-radius: 0%; border-right: 1px solid#f5f8fa;"class="btn minix btn-primary">شات جفى</a><a
 id="asim2"target="_blank"type="a"href="https://www.abraj2015.com/"style="border-radius: 10% 0 0 0; border-right: 1px solid#f5f8fa; border-left: 2px solid#a6a6a6;"class="btn minix btn-primary">أبراج اليوم</a><a id="asim10"target="_blank"type="a"href="contact.htm"style="border-radius: 0 0 10% 0; border-right: 2px solid#a6a6a6; border-top: 1px solid#f5f8fa"class="btn minix btn-primary">اتصل بنا</a><a id="asim10"target="_blank"type="a"href="ruless.html"style="border-radius: 0%; border-right: 1px solid#f5f8fa; border-top: 1px solid#f5f8fa;"class="btn minix btn-primary">الراديو</a><a id="asim10"target="_blank"type="a"href="mobile.html "style="border-radius: 0%; border-right: 1px solid#f5f8fa; border-top: 1px solid#f5f8fa;"class="btn minix btn-primary">تطبيق</a><a id="asim10"target="_blank"type="a"href="Shortcut.html"style="border-radius: 0 0 0 10%; border-left: 2px solid#a6a6a6!important; border-right: 1px solid#f5f8fa; border-top: 1px solid#f5f8fa;"class="btn minix btn-primary">اختصارات</a><a href="https://blog.jfa-w.net " target="_blank" id=""><img src="https://sudfachat.com/pner2.gif" style="width: 40%;transform:matrix(1, 0, 0, 1, 115, -172);"></a>
 <center>`).insertBefore(".nav-tabs")
-
+$(`<a id="jfa44"target="_blank"type="a"rel="nofollow"href="https://www.dookmobile.com"class="label-primary">Dook Mobile</a>
 $(".ae.label.label-primary.fa.fa-gear").text(' ضبط');
 $('.nav-tabs').addClass('fl').css('width','100%');
 $('.checkbox label').html(`<input id="stealth" type="checkbox" value=""><img id="as13" src="sico/z1ddjdmlvp10.png" width="70%" style="">`)
