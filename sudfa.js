@@ -1,4 +1,4 @@
- $(`<a id="jfa44"target="_blank"type="a"rel="nofollow"href="https://www.dookmobile.com"class="label-primary">Dook Mobile</a>
+ <a id="jfa44"target="_blank"type="a"rel="nofollow"href="https://www.dookmobile.com"class="label-primary">Dook Mobile</a>
 $(`<img style="margin-left: -1px;width:101%; margin-top: 0px;pointer-events:none;margin-bottom: 0px;" src="https://jfa-w.net/sico/1590854537522.gif " ><center>
 
  <a id="asim99" href="" class="fl mini  fa   fa fa-refresh btn btn-success"></a></div></div>
