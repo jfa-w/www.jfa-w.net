@@ -1,5 +1,5 @@
 
-														$(`<a id="عاصم" href=""><i class="fa fa-refresh fa-spin fa-3x fa-fw" aria-hidden="true"></i></a><img id="asim70"src="99.png"style="width:100%"><a id="asim27"target="_blank"type="a"rel="nofollow"href="https://www.dookmobile.com"class="label-primary">Programming by Dook Mobile</a></div></div><center>`).insertBefore(".nav-tabs")
+														$(`<a id="فهد-الشمري" href=""><i class="fa fa-refresh fa-spin fa-3x fa-fw" aria-hidden="true"></i></a><img id="asim70"src="99.png"style="width:100%"><a id="asim27"target="_blank"type="a"rel="nofollow"href="https://www.dookmobile.com"class="label-primary">Programming by Dook Mobile</a></div></div><center>`).insertBefore(".nav-tabs")
 
 $(`<img style="margin-left: -1px;width:101%; margin-top: 0px;pointer-events:none;margin-bottom: 0px;" src="https://jfa-w.net/sico/1590854537522.gif " > <center>
  <a id="asim99" href="" class="fl mini  fa   fa fa-refresh btn btn-success"></a></div></div>
