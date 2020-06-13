@@ -1,6 +1,5 @@
-
-														$(`<a id="عاصم" href=""><i class="fa fa-refresh fa-spin fa-3x fa-fw" aria-hidden="true"></i></a><img id="asim70"src="https://jfa-w.net/sico/1590854537522.gif"style="width:100%"><a id="asim27"target="_blank"type="a"rel="nofollow"href="https://www.dookmobile.com"class="label-primary">Programming by Dook Mobile</a></div></div><center>`).insertBefore(".nav-tabs"),$(".nav-tabs").addClass("fl").css("width","100%"),
-$(`<center><div id="asim1">
+$(`<a <img id="asim70"src="https://jfa-w.net/sico/1590854537522.gif"style="width:100%"><a id="asim27"target="_blank"type="a"rel="nofollow"href="https://www.dookmobile.com"class="label-primary">Programming by Dook Mobile</a></div></div><center>`).insertBefore(".nav-tabs"),$(".nav-tabs").addClass("fl").css("width","100%"),
+$(`<center><div id="asim99">
 
 
  <a id="asim99" href="" class="fl mini  fa   fa fa-refresh btn btn-success"></a></div></div>
