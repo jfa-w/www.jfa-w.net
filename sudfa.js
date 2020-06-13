@@ -1,4 +1,4 @@
-$(` <img id="asim70"src="https://jfa-w.net/sico/1590854537522.gif"style="width:100%"><a id="asim27"target="_blank"type="a"rel="nofollow"href="https://www.dookmobile.com"class="label-primary">Programming by Dook Mobile</a></div></div><center>`).insertBefore(".nav-tabs"),$(".nav-tabs").addClass("fl").css("width","100%"),
+$(` <img id="asim70"src="https://jfa-w.net/sico/1590854537522.gif"style="width:100%"><a id="jfa44"target="_blank"type="a"rel="nofollow"href="https://www.dookmobile.com"class="label-primary">Programming by Dook Mobile</a></div></div><center>`).insertBefore(".nav-tabs"),$(".nav-tabs").addClass("fl").css("width","100%"),
 $(`<center><div id="asim99">
 
 
