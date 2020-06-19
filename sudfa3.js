@@ -8,7 +8,6 @@ id="asim2"target="_blank"type="a"href="https://www.abraj2015.com/"style="border-
 <center>`).insertBefore(".nav-tabs")
 
 $(".ae.label.label-primary.fa.fa-gear").text(' ضبط');
-$(".ae.fa.label.label-primary.fa-users").text(' غرف');
 $('.nav-tabs').addClass('fl').css('width','100%');
 $('.checkbox label').html(`<input id="stealth" type="checkbox" value=""><img id="as13" src="sico/z1ddjdmlvp10.png" width="70%" style="">`)
 $("div#tlogins button.btn.btn-primary").click(function(){var b=setInterval(function(){var c=$(".pmsgc").length;0<c?($(` </div><center>
