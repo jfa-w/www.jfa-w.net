@@ -8,7 +8,7 @@ id="asim2"target="_blank"type="a"href="https://www.abraj2015.com/"style="border-
 $(`<a href="https://blog.jfa-w.net/" target="_blank" style=" font-family: 'El Messiri', sans-serif;width:107px;color: #E8415D;text-decoration:none; margin-right: 5px;
 margin-left: 2px;text-align: center;float: right;border-radius: 5px;
 border-color: #F2F2F2;
-padding: 3px;" class="border" ><i class="fa fa-forumbee"></i>&nbsp;المدونة</a>
+padding: 3px;" class="border" ><i class="fa fa-forumbee"></i>&nbsp;المدونة</a>`).insertBefore('a.fl.fa.fa-ban.btn.ui-corner-all.ui-shadow.ui-btn.ui-btn-inline.umute.borderg');
 $(".ae.label.label-primary.fa.fa-gear").text(' ضبط');
 $('.nav-tabs').addClass('fl').css('width','100%');
 $('.checkbox label').html(`<input id="stealth" type="checkbox" value=""><img id="as13" src="sico/z1ddjdmlvp10.png" width="70%" style="">`)
