@@ -432,8 +432,3 @@ div#l1{height:84px}
 a#jawalhost7{font-size:14px!important;width:54px!important;border:1px solid #f7d322;margin-right:0;float:right;padding:5px 0 0 20px;height:25px!important;color:#fff!important;margin-left:-6px;background-image:linear-gradient(90deg,#42b4bf 0,#328b94 10%,#397f86 51%,#499ca5 89%,#328b94 100%);border-radius:0;background-repeat:repeat;border-bottom:1px solid#e1e1e1}
 .fl.mini.fa.fa-bullhorn.btn.btnn-default{font-size:14px!important;width:100%;background-color:#623a16!important;color:#fff;text-align:center;border-radius:10%;margin-bottom:3px;margin-top:1px;height:25px;padding:5px 0;margin-left:1px}
 input[type=jfa-w]{font-size:15px!important;width:100%;text-align:center;color:#885867;border-radius:14%;margin-bottom:6px;margin-top:1px;margin-left:3px}
-div#tlogins::-webkit-scrollbar{width:5px;height:10px}
-div#tlogins::-webkit-scrollbar-button{width:5px;height:5px}
-div#tlogins::-webkit-scrollbar-corner{background:transparent}
-div#tlogins::-webkit-scrollbar-thumb{background:#7b5531;border:71px none #fff;border-radius:31px;background-image:-webkit-linear-gradient(45deg,rgba(255,255,255,.2) 25%,transparent 25%,transparent 50%,rgba(255,255,255,.2) 50%,rgba(255,255,255,.2) 75%,transparent 75%,transparent)!important}
-div#tlogins::-webkit-scrollbar-track{background:#fff;border:65px none #fff;border-radius:34px}
