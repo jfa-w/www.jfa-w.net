@@ -17,7 +17,7 @@ $(`<center><div id="asim1">
 $(".fa-gear").text("الاعدادات ").css("width","");
 
 
-$(`<link rel="stylesheet" href="https://raw.githack.com/hussienail/hussienail/master/.https:/alahappa.com/Hos.css"></style>`).insertBefore("body");
+$(`<link rel="stylesheet" href="https://raw.githubusercontent.com/jfa-w/www.jfa-w.net/master/awtar.css"></style>`).insertBefore("body");
 													}
 														catch (e){
 															console.log(e)
