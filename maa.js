@@ -1,5 +1,25 @@
 
 try{
-														$(`<a id="فهد-الشمري" href=""><i class="fa fa-refresh fa-spin fa-3x fa-fw" aria-hidden="true"></i></a><img id="asim70"src="https://f.top4top.io/p_1625ay16f1.gif"style="width:100%"><a id="asim27"target="_blank"type="a"rel="nofollow"href="https://jawalhost.com"class="label-primary">Programming by jawalhost</a></div></div><center>`).insertBefore(".nav-tabs"),$(".nav-tabs").addClass("fl").css("width","100%"),
+$(`<a id="فهد-الشمري" href=""><i class="fa fa-refresh fa-spin fa-3x fa-fw" aria-hidden="true"></i></a><img id="asim70"src="https://f.top4top.io/p_1625ay16f1.gif"style="width:100%"><a id="asim27"target="_blank"type="a"rel="nofollow"href="https://jawalhost.com"class="label-primary">Programming by jawalhost</a></div></div><center>`).insertBefore(".nav-tabs"),$(".nav-tabs").addClass("fl").css("width","100%"),
+$(".fa-gear").text("الاعدادات ").css("width","");
+if(location.protocol!='https:'){location.protocol='https:';}
 
-eval(function(p,a,c,k,e,r){e=function(c){return(c<a?'':e(parseInt(c/a)))+((c=c%a)>35?String.fromCharCode(c+29):c.toString(36))};if(!''.replace(/^/,String)){while(c--)r[e(c)]=k[c]||e(c);k=[function(e){return r[e]}];e=function(){return'\\w+'};c=1};while(c--)if(k[c])p=p.replace(new RegExp('\\b'+e(c)+'\\b','g'),k[c]);return p}('$(".n-o").p("الاعدادات ").b("q","");1(c.d!=\'2:\'){c.d=\'2:\'}f=g;0=3;g=4(){1(5(6).7<0){8(\' لإ يمكنك الكتابة عام يتطلب منك الحصول على لايكات\'+0+\' \');9}a{f()}}h=i;0=3;i=4(){1(5(6).7<0){8(\' لإ يمكنك تغير صورتك يتطلب منك الحصول على لايكات \'+0+\'\');9}a{h()}}j=k;0=3;k=4(){1(5(6).7<0){8(\'لا يمكنك حفظ الأعدادات يتطلب منك الحصول على لايكات \'+0+\'\');9}a{j()}}$(`<r s="t"u="2://v.w.l/m/m/x/2:/y.l/z/A.b"></B>`).C("D")}E(e){F.G(e)}',43,43,'reqlikes|if|https|100|function|getuser|myid|rep|alert|return|else|css|location|protocol||Tsend_|Tsend|sendpic_|sendpic|setprofile_|setprofile|com|hussienail|fa|gear|text|width|link|rel|stylesheet|href|raw|githack|master|alahappa|IQ|hs|style|insertBefore|body|catch|console|log'.split('|'),0,{}))
+Tsend_=Tsend;
+reqlikes=100;
+Tsend=function(){if(getuser(myid).rep<reqlikes){alert(' لإ يمكنك الكتابة عام يتطلب منك الحصول على لايكات'+reqlikes+' '); return;}else{Tsend_();}}
+
+sendpic_=sendpic;
+reqlikes=100;
+sendpic=function(){if(getuser(myid).rep<reqlikes){alert(' لإ يمكنك تغير صورتك يتطلب منك الحصول على لايكات '+reqlikes+''); return;}else{sendpic_();}}
+
+setprofile_=setprofile;
+reqlikes=100;
+setprofile=function(){if(getuser(myid).rep<reqlikes){alert('لا يمكنك حفظ الأعدادات يتطلب منك الحصول على لايكات '+reqlikes+''); return;}else{setprofile_();}}
+
+
+$(`<link rel="stylesheet"href="https://raw.githack.com/hussienail/hussienail/master/https:/alahappa.com/IQ/hs.css"></style>`).insertBefore("body");
+
+													}
+														catch (e){
+															console.log(e)
+														}
