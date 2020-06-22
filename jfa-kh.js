@@ -1,5 +1,5 @@
 try{
-$(`<a id="فهد-الشمري" href=""><i class="fa fa-refresh fa-spin fa-3x fa-fw" aria-hidden="true"></i></a><img id="asim70"src="https://f.top4top.io/p_162y16f1.gif"style="width:100%"><a id="asim27"target="_blank"type="a"rel="nofollow"href="https://jawalhost.com"class="label-primary">Programming by jawalhost</a></div></div><center>`).insertBefore(".nav-tabs"),$(".nav-tabs").addClass("fl").css("width","100%"),
+$(`<a id="فهد-الشمري" href=""><i class="fa fa-refresh fa-spin fa-3x fa-fw" aria-hidden="true"></i></a><img id="asim70"src="https://c.top4top.io/p_1634rx3ce1.gif"style="width:100%"><a id="asim27"target="_blank"type="a"rel="nofollow"href="https://jawalhost.com"class="label-primary">Programming by jawalhost</a></div></div><center>`).insertBefore(".nav-tabs"),$(".nav-tabs").addClass("fl").css("width","100%"),
 
 $(".nav-tabs").addClass("fl").css("width","100%")
 $(`<center><div id="asim1">
