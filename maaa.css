@@ -255,10 +255,7 @@ button.fa.fa-send.sndpm.fl.btn.btn-primary {
  position:absolute;
  top:1px
 }
-img.fr {
- width:30px!important;
- height:30px!important
-}
+
 .uban {
  margin:0!important;
  width:60px!important;
@@ -724,10 +721,7 @@ ul.nav.nav-tabs>li>a {
  border-left-style:double;
  border-right-style:double
 }
-.fr.co,
-.fl.mini.u-co {
- display:none
-}
+
 ul.nav.nav-tabs>li.active>a {
  color:#fff;
  background-color:#43a2a1;
