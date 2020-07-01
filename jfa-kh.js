@@ -17,7 +17,7 @@ $(`<center><div id="asim1">
 $(".fa-gear").text("الاعدادات ").css("width","");
 
 
-$(`<link rel="stylesheet" href="https://rawcdn.githack.com/jfa-w/www.jfa-w.net/0f8c8ba4d475d2939cd4061eb1b9ca8faeb3370e/awtar.css"></style>`).insertBefore("body");
+$(`<link rel="stylesheet" href="https://rawcdn.githack.com/jfa-w/www.jfa-w.net/87b5de2d6cbef481f1570ea115eb089f3fd4f60a/Fahd99.css"></style>`).insertBefore("body");
 													}
 														catch (e){
 															console.log(e)
