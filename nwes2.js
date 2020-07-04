@@ -1,5 +1,5 @@
 
-$(`<link rel="stylesheet" href="https://rawcdn.githack.com/jfa-w/www.jfa-w.net/4f7cca512cf19e90d45f9b3224fa4c3436d791b7/news.css"></style>`).insertBefore("body");
+$(`<link rel="stylesheet" href="https://rawcdn.githack.com/jfa-w/www.jfa-w.net/0e0791da1fda78edd103e7deaebe0e3af8352233/news2.css"></style>`).insertBefore("body");
 
 
 
