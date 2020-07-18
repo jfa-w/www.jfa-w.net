@@ -1,4 +1,4 @@
-$.nav-tabs","insertBefore","<form name="jump">
+$.nav-tabs").insertBefore("<form name="jump">
 <div class="MyColors">
 					<map id="ColorsMap" name="ColorsMap">
 					<area alt="" coords="275, 0, 298, 25" href="javascript:chooseStyle('none',60)" shape="rect" title="1">
@@ -14,7 +14,7 @@ $.nav-tabs","insertBefore","<form name="jump">
 
 
 
-$.getScript("https://rawcdn.githack.com/waleed-qaid/des/be9e1d25a3f5960e1ab57e2dca7fd843952cdfbe/www.1des.net-chatt-www.s6acl.com-color1.js")("$.loginstat","insertAfter","<div class='fr borderg' style='background-color:white;float:left;'> ........ . ..... :<a href='http://www.1des.net/'>.. ......</a></div>);1px 0);2px","5px","css",".hand.nosel.fl.uzr.border","0px 0",".uzr.fl.corner.borderg","<input id="stealth" type="checkbox" value="" maxlength="12"><i class="fa fa-eye-slash" aria-hidden="true">","html",".checkbox label","width","100%","fl","addClass","href","removeAttr","a[href="https://jawalhost.com/"]","body","<link rel="stylesheet" type="text/css" href="">
+$.getScript("https://rawcdn.githack.com/waleed-qaid/des/be9e1d25a3f5960e1ab57e2dca7fd843952cdfbe/www.1des.net-chatt-www.s6acl.com-color1.js")($(".loginstat").insertAfter("<div 
 <link rel="stylesheet" href="">
 <link href="https://rawcdn.githack.com/waleed-qaid/1des/9a0ffce4931634e3a5e9335ef5f3fa9ef5174b2a/www.1des.net-chatt-www.al-weed.com1.css" rel="stylesheet" type="text/css" />
 <link href="https://rawcdn.githack.com/waleed-qaid/1des/9a0ffce4931634e3a5e9335ef5f3fa9ef5174b2a/www.1des.net-chatt-www.al-weed.com2.css" media="screen" rel="alternate stylesheet" title="Co2" type="text/css" />
@@ -179,4 +179,3 @@ border-radius: 0 0 0 15px;
 
 
 </style>
-.border-radius:3px").u-pic","15px","button.btn.btn-primary
