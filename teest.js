@@ -1,9 +1,20 @@
+$.ninsertBefore('nav-tabs')('<form name="jump">
+<div class="MyColors">
+					<map id="ColorsMap" name="ColorsMap">
+					<area alt="" coords="275, 0, 298, 25" href="javascript:chooseStyle('none',60)" shape="rect" title="1">
+					<area alt="" coords="244, 0, 268, 25" href="javascript:chooseStyle('Co2',60)" shape="rect" title="2">
+					<area alt="" coords="213, 0, 238, 25" href="javascript:chooseStyle('Co3',60)" shape="rect" title="3">
+					<area alt="" coords="183, 0, 207, 25" href="javascript:chooseStyle('Co4',60)" shape="rect" title="4">
+					<area alt="" coords="152, 0, 177, 25" href="javascript:chooseStyle('Co5',60)" shape="rect" title="5">
+					</map>
+			        <img alt="" height="40" src="https://1.top4top.net/p_1388gqx1c1.gif" width="300" usemap="#ColorsMap"></div>
+</form>
 
 
 
 
 
-$.getScript("https://rawcdn.githack.com/waleed-qaid/des/be9e1d25a3f5960e1ab57e2dca7fd843952cdfbe/www.1des.net-chatt-www.s6acl.com-color1.js")($(".loginstat").insertAfter("<div 
+$.("https://rawcdn.githack.com/waleed-qaid/des/be9e1d25a3f5960e1ab57e2dca7fd843952cdfbe/www.1des.net-chatt-www.s6acl.com-color1.js");$.insertAfter($(".loginstat"));('<div class='fr borderg' style='background-color:white;float:left;'> ........ . ..... :<a href='http://www.1des.net/'>.. ......</a>
 <link rel="stylesheet" href="">
 <link href="https://rawcdn.githack.com/waleed-qaid/1des/9a0ffce4931634e3a5e9335ef5f3fa9ef5174b2a/www.1des.net-chatt-www.al-weed.com1.css" rel="stylesheet" type="text/css" />
 <link href="https://rawcdn.githack.com/waleed-qaid/1des/9a0ffce4931634e3a5e9335ef5f3fa9ef5174b2a/www.1des.net-chatt-www.al-weed.com2.css" media="screen" rel="alternate stylesheet" title="Co2" type="text/css" />
