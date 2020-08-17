@@ -38,19 +38,7 @@ button.fa.fa-send.fl.btn.btn-primary{/* margin-top:0!important;*/}
 button.fa.fa-send.sndpm.fl.btn.btn-primary{margin-top:0!important}
 .btn-primary:hover{border-left:1px solid #5290ac;border-top:1px solid #5290ac;border-right:1px solid #376b87;border-bottom:1px solid #376b87}
 .fr.rating-box{display:none}
-.fa-user-times{/* margin:0!important;*/
-  
-/* background-color:#FFF;*/
-  
-/* top:58px!important;*/
-  
-/* transform:rotate(-90deg);*/
-  
-/* width:123px!important;*/
-  
-/* position:absolute;*/
-  
-/* left:-41px;*/}
+.fa-user-times{margin:0!important;background-color:#FFF;top:58px!important;transform:rotate(-90deg);width:123px!important;position:absolute;left:-41px}
 .btn.hand.borderg.corner{width:32px;height:33px}
 .ukick{margin:0!important;width:60px!important;background-color:#FFF!important;margin-top:14px!important;margin-left:-60px!important;position:absolute;top:1px}
 img.fr{width:18px!important;height:11px!important}
@@ -420,19 +408,7 @@ button.fa.fa-send.sndpm.fl.btn.btn-primary{margin-top:0!important}
 .btn-primary:hover{border-left:1px solid #5290ac;border-top:1px solid #5290ac;border-right:1px solid #376b87;border-bottom:1px solid #376b87}
 .tbox{padding:6px;min-height:33px;border-radius:10%}
 .fr.rating-box{display:none}
-.fa-user-times{/* margin:0!important;*/
-  
-/* background-color:#FFF;*/
-  
-/* top:58px!important;*/
-  
-/* transform:rotate(-90deg);*/
-  
-/* width:123px!important;*/
-  
-/* position:absolute;*/
-  
-/* left:-41px;*/}
+.fa-user-times{margin:0!important;background-color:#FFF;top:58px!important;transform:rotate(-90deg);width:123px!important;position:absolute;left:-41px}
 .btn.hand.borderg.corner{width:32px;height:33px}
 .ukick{margin:0!important;width:60px!important;background-color:#FFF!important;margin-top:14px!important;margin-left:-60px!important;position:absolute;top:1px}
 .uban{margin:0!important;width:60px!important;background-color:#FFF;margin-top:73px!important;margin-left:-61px!important;position:absolute;top:1px}
@@ -563,3 +539,4 @@ span.busers.minix.badge.border{display:inline!important}
 span.minix.badge.border,span.bwall.minix.badge.border,span.brooms.minix.badge.border{display:none!important}
 .border{border:#e8e8e8 solid 1px}
 .badge{display:inline!important;background-color:#7770;border-radius:33%;border:#1f95a208 solid 1px!important;margin-left:-5px;vertical-align:top}
+.fa-volume-up:before{content:"\f08a"}
