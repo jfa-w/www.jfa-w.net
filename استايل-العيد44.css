@@ -377,7 +377,7 @@ a#jawalhost{color:#fff!important;position:absolute;right:1px}
 .fl.fa.fa-sign-in.btn.btn-primary.dots.roomh.border.corner{background-color:#8c2a05!important;padding:1px 4px!important;pointer-events:none}
 label.jawalhost.ae.fa.label.label-primary{padding:7px 10px 5px;margin-left:-4px!important;border-radius:0 4px 9px 0}
 .ae.label.label-primary.fa.fa-gear{padding:7px 10px 5px 10px;border-radius:0;margin-left:-3px!important}
-.ae.fa.label.fa-commenting-o.label-primary{padding:7px 1px 5px 9px;margin-left:-4px!important;border-radius:0}
+.ae.fa.label.fa-commenting-o.label-primary{padding:7px 10px 5px 9px;margin-left:-4px!important;border-radius:0}
 .ae.fa.label.label-primary.fa-users{padding:7px 10px 5px 8px;border-radius:0;margin-left:-3px!important}
 .ae.fa.chats.label.fa-comment.label-primary{padding:7px 13px 5px;margin-left:-7px!important;border-radius:0}
 .ae.fa.label.label-primary.fa-user{padding:7px 12px 5px 9px;border-radius:4px 0 0 9px;padding:7px 12px 5px 9px;/* border-radius:3px 0 0 3px;*/
@@ -540,3 +540,4 @@ span.minix.badge.border,span.bwall.minix.badge.border,span.brooms.minix.badge.bo
 .border{border:#e8e8e8 solid 1px}
 .badge{display:inline!important;background-color:#7770;border-radius:33%;border:#1f95a208 solid 1px!important;margin-left:-5px;vertical-align:top}
 .fa-volume-up:before{content:"\f08a"}
+h3.popover-title,.fa-commenting-o::before,.fl.fa.fa-comment.btn.ui-corner-all.ui-shadow.ui-btn.ui-btn-inline.upm.borderg.fa-comment::before,.fa-envelope-o::before,.fa-diamond::before,.fa-search::before,.fa-ban::before,.fa-ban::before,.fa-user-times::before{display:none}
