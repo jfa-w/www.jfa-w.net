@@ -41,3 +41,4 @@ alert( "اهلا وسهلا بكم في شات جفى للجوال ❤️ سجل
 $("#d0 .fa-gear").html(' ').css('width','36px');
 $("#d0 .fa-commenting-o").html(' ').css('width','36px');
 $("#d0 .fa-users").html(' ').css('width','36px');
+$('label.ae.fa.label.label-primary.fa-commenting-o').html('<span class="bwall  minix badge border" style="margin-top:-8px;padding:1px 4px;">0</span>')
